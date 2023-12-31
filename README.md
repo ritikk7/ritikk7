@@ -8,8 +8,16 @@ I am a curious and enthusiastic Computer Science major @ UBC, with a boundless p
 
 Whether you want to discuss tech, collaborate on a project, or just share thoughts, I'm open for a chat!
 
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-ritikk7-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ritikk7/)
-- **Email**: [![Email](https://img.shields.io/badge/Email-your.email%40example.com-blue?style=flat-square&logo=gmail)](mailto:ritikk075@gmail.com)
+<p>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ritikk7/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="vertical-align:middle;" width="40" height="40"/>
+  </a>
+  <!-- Email -->
+  <a href="mailto:ritikk075@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" style="vertical-align:middle;" width="40" height="40"/>
+  </a>
+</p>
 
 Feel free to reach out!
 
