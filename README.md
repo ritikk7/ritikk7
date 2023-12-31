@@ -26,9 +26,6 @@ Whether you want to discuss tech, collaborate on a project, or just share though
   </a>
 </p>
 
-Feel free to reach out!
-
-
 ### 👨‍💻 Experience Stack:
 <p align="left">
   <!-- Languages -->
