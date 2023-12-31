@@ -2,7 +2,14 @@
 
 I am a curious and enthusiastic Computer Science major @ UBC, with a boundless passion for computing and an entrepreneurial streak. When I am not coding I enjoy unravelling the mysteries of psychology 🧠, physics ⚛️, and philosophy 💭 in my free time. I thrive in environments where I can absorb new knowledge, challenge my understanding, and apply my learnings in creative ways.
 
+- 🌱 I’m currently learning: Cloud Computing, Parallel Computing, and Existential Philosophy
+- 💬 Ask me about: Anything! From my projects, to football, to my travel experiences.
+- ⚡ Fun fact: My favorite football club is Real Madrid.
+  
+
 #### Want to know more about me? Check out [rkeswani.com](https://rkeswani.com/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikk7&label=Profile%20views&color=0e75b6&style=flat" alt="ritikk7" /> </p>
 
 ### 📫 Let's Connect:
 
@@ -172,8 +179,7 @@ Feel free to reach out!
 
 <!--
 
-🔭 I’m currently working on
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
