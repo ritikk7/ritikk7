@@ -2,7 +2,7 @@
 
 I am a curious and enthusiastic Computer Science major @ UBC, with a boundless passion for computing and an entrepreneurial streak. When I am not coding I enjoy unravelling the mysteries of psychology 🧠, physics ⚛️, and philosophy 💭 in my free time. I thrive in environments where I can absorb new knowledge, challenge my understanding, and apply my learnings in creative ways.
 
-- 🌱 I’m currently learning: Cloud Computing, Parallel Computing, and Existential Philosophy
+- 🌱 I’m currently learning: Machine Learning, Distributed Systems, and Existential Philosophy
 - 💬 Ask me about: Anything! From my projects, to football, to my travel experiences.
 - ⚡ Fun fact: My favorite football club is Real Madrid.
   
