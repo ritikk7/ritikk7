@@ -1,9 +1,13 @@
 ## Hi, I am Ritik 👋
 
-I am a curious and enthusiastic Computer Science major @ UBC, with a boundless passion for computing and an entrepreneurial streak. When I am not coding I enjoy unravelling the mysteries of psychology 🧠, physics ⚛️, and philosophy 💭 in my free time. I thrive in environments where I can absorb new knowledge, challenge my understanding, and apply my learnings in creative ways.
+I am a Builder with a boundless passion for computing and an entrepreneurial streak. I currently ply my trade as a Software Engineer at Capital One Canada, helping millions of Canadians get access to credit.
 
-- 🌱 I’m currently learning: Machine Learning, Distributed Systems, and Existential Philosophy
-- 💬 Ask me about: Anything! From my projects, to football, to my travel experiences.
+I earned my Computer Science degree from the University of British Columbia, where I also worked as a Teaching Assistant for courses in Software Construction, Computer Systems, and Data Structures and Algorithms, and tutored students in UBC’s Bachelor of Computer Science (BCS) program.
+
+When I am not coding, I enjoy unravelling the mysteries of psychology 🧠, physics ⚛️, and philosophy 💭 in my free time. I thrive in environments where I can absorb new knowledge, challenge my understanding, and apply my learnings in creative ways.
+
+- 🌱 I’m currently learning: Distributed Systems, Sound Mixing and Existential Philosophy
+- 💬 Ask me about: Anything! From my projects, to movies, to football, to my travel experiences.
 - ⚡ Fun fact: My favorite football club is Real Madrid.
   
 
